@@ -4,6 +4,17 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+## Following Steps to run the Application and test cases:
+
+1. To run application, Go to app path and run below command.
+
+   ruby lib/airplane_seating_app.rb
+
+2. To run the test cases, Go to app path and run below command.
+
+  bundle exec rspec
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
