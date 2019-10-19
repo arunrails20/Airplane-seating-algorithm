@@ -11,5 +11,4 @@ class Integer
   def is_greater_than_zero?
     self > 0
   end
-
 end
